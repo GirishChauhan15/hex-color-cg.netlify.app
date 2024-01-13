@@ -5,7 +5,7 @@
         /* Span element for hex_code */
         .hex_code1{
             font-size: 1.8rem;
-            font-family: math;
+            font-family: 'math';
         }
         /* Basic alignment for div1 */
         .div1{
